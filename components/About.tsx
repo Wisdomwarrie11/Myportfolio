@@ -9,7 +9,7 @@ const About: React.FC = () => {
           <div className="relative order-2 lg:order-1">
             <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl border border-slate-800">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop" 
+                src="wisdom.jpg" 
                 alt="Wisdom Warrie" 
                 className="w-full h-full object-cover"
               />
@@ -28,10 +28,10 @@ const About: React.FC = () => {
             </h3>
             <div className="space-y-6 text-lg text-slate-400 leading-relaxed">
               <p>
-                My name is <span className="text-white font-semibold">Wisdom Warrie</span>. I operate at the intersection of two demanding fields. As a <span className="text-blue-400">Radiographer</span>, I focus on clinical accuracy and patient welfare. As a <span className="text-indigo-400">Web Developer</span>, I translate complex requirements into fluid digital experiences.
+                My name is <span className="text-white font-semibold">Wisdom Warrie</span>. I operate at the intersection of two demanding fields. As a <span className="text-blue-400">Radiographer</span>, I focus on clinical accuracy and patient care. As a <span className="text-indigo-400">Web Developer</span>, I translate complex requirements into fluid digital experiences.
               </p>
               <p>
-                I don't just build healthcare apps—I build solutions. My development work spans from educational platforms and productivity tools to sophisticated hospital portals and real estate engines.
+                I don't just build healthcare apps—I build solutions. My development work spans from educational platforms and productivity tools to sophisticated hospital websites.
               </p>
               <p>
                 I am obsessed with clean architecture, responsive design, and providing users with tools that genuinely improve their daily lives.
@@ -51,7 +51,7 @@ const About: React.FC = () => {
                   <i className="fa-solid fa-terminal text-xl"></i>
                 </div>
                 <h4 className="font-bold text-white text-lg mb-2">Tech Innovation</h4>
-                <p className="text-sm text-slate-500">Full-stack engineering focused on performance and modern DX.</p>
+                <p className="text-sm text-slate-500">Front-end engineering focused on performance and modern UX.</p>
               </div>
             </div>
           </div>

@@ -17,10 +17,10 @@ const Hero: React.FC = () => {
           </div>
           <h1 className="text-5xl md:text-8xl font-black text-white tracking-tight mb-8 leading-[1.1]">
             Wisdom Warrie: <br/>
-            <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">Developer & Clinician</span>
+            <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">Developer & Radiographer</span>
           </h1>
           <p className="max-w-3xl mx-auto text-xl text-slate-400 mb-12 leading-relaxed">
-            A professional <span className="text-slate-200">Radiographer</span> by day and a <span className="text-slate-200">Full-stack Engineer</span> by choice. I build high-performance web applications with React, Vue, and TypeScript, delivering clinical precision in every line of code.
+            A professional <span className="text-slate-200">Radiographer</span> by day and a <span className="text-slate-200">Full-stack Engineer</span> by choice. I build high-performance web applications with React, Vue, and TypeScript, delivering precision in every line of code.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <a
