@@ -4,7 +4,7 @@ import { Project, Skill } from './types';
 export const PROJECTS: Project[] = [
   {
     title: 'StudiRad',
-    description: '“StudiRad is a radiography-focused digital learning platform designed to give radiography students and professionals up-to-date educational resources, clinical insights, and career-relevant information that support both academic success and professional growth..',
+    description: 'StudiRad is a radiography-focused digital learning platform designed to give radiography students and professionals up-to-date educational resources, clinical insights, and career-relevant information that supports, both academic success and professional growth.',
     tech: ['React', 'TypeScript', 'Firebase'],
     image: 'studirad.png',
     link: 'https://www.studirad.org'
