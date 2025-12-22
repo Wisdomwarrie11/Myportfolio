@@ -11,7 +11,7 @@ export const PROJECTS: Project[] = [
   },
   {
     title: 'GCMC Website',
-    description: 'A comprehensive, multilingual hospital website built for GCMC to improve accessibility for patients across diverse language backgrounds.',
+    description: 'A comprehensive, multilingual hospital website built to improve accessibility for patients across diverse language backgrounds.',
     tech: ['React', 'Vue.js', 'TypeScript'],
     image: 'gcmc.png',
     link: 'https://gcmc.vercel.app/'
